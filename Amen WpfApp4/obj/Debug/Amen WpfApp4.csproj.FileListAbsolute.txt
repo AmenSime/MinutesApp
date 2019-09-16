@@ -1,0 +1,43 @@
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\App.g.cs
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen WpfApp4_MarkupCompile.cache
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen WpfApp4_MarkupCompile.lref
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\Amen WpfApp4.exe.config
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\Amen WpfApp4.exe
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\Amen WpfApp4.pdb
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MaterialDesignColors.dll
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MaterialDesignColors.pdb
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\App.baml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen WpfApp4.g.resources
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen_WpfApp4.Properties.Resources.resources
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen WpfApp4.csproj.GenerateResource.cache
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen WpfApp4.csproj.CopyComplete
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen WpfApp4.exe
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen WpfApp4.pdb
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\HomePage.g.cs
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\HomePage.baml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Page2.g.cs
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\UserControl1.g.cs
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Page2.baml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\UserControl1.baml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\HomeWindow.g.cs
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\HomeWindow.baml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\EntityFramework.dll
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\Google.Protobuf.dll
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MySql.Data.dll
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\EntityFramework.xml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\Google.Protobuf.xml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MySql.Data.xml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\obj\Debug\Amen WpfApp4.csprojAssemblyReference.cache
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\e\source\repos\Amen WpfApp4\Amen WpfApp4\bin\Debug\Xceed.Words.NET.dll
